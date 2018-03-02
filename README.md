@@ -1,5 +1,7 @@
 # Python
 
+FinTech Analysis
+
 Data 1:
 Cryptocurrency data (visual inspection) - https://bitcoincharts.com/charts/btcalphaUSD#rg60ztgSzm1g10zm2g25zv
 api for data 1 - http://api.bitcoincharts.com/v1/csv/
